@@ -1,10 +1,15 @@
 ## Hi there 👋
 
 ### :zap: Commits reciente
-<!--Start_section:activity-->
+<!--START_SECTION:activity-->
 
-<!--End_section:activity-->
+<!--END_SECTION:activity-->
 
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
 
 
 <!--
